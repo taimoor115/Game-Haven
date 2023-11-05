@@ -1,7 +1,3 @@
-import apiClient from "../services/api-client";
-import { Text } from "@chakra-ui/react";
-import { CanceledError } from "axios";
-import { useEffect, useState } from "react";
 import useData from "./useData";
 
 export interface Platform {
