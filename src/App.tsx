@@ -6,8 +6,6 @@ import GenreList from "./Components/GenreList";
 import NavBar from "./Components/NavBar";
 import PlatformSelector from "./Components/PlatformSelector";
 import SortSelector from "./Components/SortSelector";
-import { Platform } from "./hooks/usePlatforms";
-import { Genre } from "./hooks/useGenres";
 
 // undefined is absence of a value
 // null is a intentially absence of a value
